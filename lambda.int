@@ -1,10 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\hub.dm;code\global.dm;code\names.dm;code\setup.dm;code\stylesheet.dm;code\world.dm;icons\mob\uniform.dmi;code\game\machinery\doors\door.dm;code\game\machinery\doors\windowdoor.dm;code\game\mecha\mecha_construction_paths.dm;code\game\sound.dm
 LAST_COMPILE_VERSION: 496.1145
-DIR: code code\game code\game\machinery code\game\machinery\doors code\game\mecha icons icons\mob 
-FILE: code\game\machinery\doors\door.dm
+WINDOW: code\hub.dm;code\global.dm;code\names.dm;code\setup.dm;code\stylesheet.dm;code\world.dm;icons\mob\uniform.dmi;code\game\machinery\doors\door.dm;code\game\machinery\doors\windowdoor.dm;code\game\mecha\mecha_construction_paths.dm;code\game\sound.dm
+UPDATE_OBJ_TREE: ON
+DIR: code code\controllers code\game code\game\machinery code\game\machinery\computer code\game\machinery\doors code\game\mecha code\game\turfs code\game\turfs\simulated icons icons\turf maps 
+FILE: maps\tgstation.2.0.9.dmm
 LAST_COMPILE_TIME: 1350290126
 AUTO_FILE_DIR: ON
 */
